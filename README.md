@@ -35,5 +35,5 @@ It answers questions about space exploration (NASA, SpaceX, Mars) based on index
 *   `chroma_db/`: Directory where the vector database is stored (created after running ingestion).
 
 ## Team Members
-*   [Your Name Here] - ID: [Your ID]
-*   [Partner Name] - ID: [Partner ID]
+*   Amina Omari - ID: 212958755
+*   Ossama Ziadat - ID: 212608368
