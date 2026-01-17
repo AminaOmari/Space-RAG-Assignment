@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
+
+# Local Vector DB (Generated Data)
+chroma_db/
