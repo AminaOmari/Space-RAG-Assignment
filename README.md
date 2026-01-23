@@ -4,6 +4,8 @@
 This is a **Local Applicative RAG** project for the Information Retrieval course.
 It answers questions about space exploration (NASA, SpaceX, Mars) based on indexed Wikipedia articles.
 
+🎬 **[Watch the Project Presentation Video](./space_rag_presentation.mp4)**
+
 ## Prerequisites
 1.  **Python 3.10+**
 2.  **Ollama**: This project requires a local LLM runner.
