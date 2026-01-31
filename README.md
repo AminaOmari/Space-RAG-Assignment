@@ -6,6 +6,8 @@ It answers questions about space exploration (NASA, SpaceX, Mars) based on index
 
 🎬 **[Watch the Project Presentation Video](./space_rag_presentation.mp4)**
 
+📂 **[Project Data & Outputs (Google Drive)](https://drive.google.com/drive/folders/1cz9nvYsX-Ligx5-y8jgunX6wuxAJ3Giu?usp=drive_link)**
+
 ## Prerequisites
 1.  **Python 3.10+**
 2.  **Ollama**: This project requires a local LLM runner.
