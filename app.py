@@ -1,3 +1,5 @@
+# Student Names: Amina O. & Ossama Z.
+# RAG Assignment - Space Exploration Assistant
 import streamlit as st
 import os
 from langchain_chroma import Chroma
