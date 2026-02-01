@@ -4,9 +4,9 @@
 This is a **Local Applicative RAG** project for the Information Retrieval course.
 It answers questions about space exploration (NASA, SpaceX, Mars) based on indexed Wikipedia articles.
 
-🎬 **[Watch the Project Presentation Video](./space_rag_presentation.mp4)**
+🎬 **[Watch the Project Presentation Video](https://drive.google.com/file/d/1kShFBE_b_vKeW6tW2ygduEXCZPCQ44_w/view?usp=drive_link)**
 
-📂 **[Project Data & Outputs (Google Drive)](https://drive.google.com/drive/folders/1cz9nvYsX-Ligx5-y8jgunX6wuxAJ3Giu?usp=drive_link)**
+📂 **[Project Data & Outputs (Google Drive)](https://drive.google.com/file/d/1lQKsJfQ99W8MWdWoRjVM7JdqQaVfEg-p/view?usp=drive_link)**
 
 ## Prerequisites
 1.  **Python 3.10+**
