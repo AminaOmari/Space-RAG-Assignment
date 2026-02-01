@@ -41,3 +41,4 @@ It answers questions about space exploration (NASA, SpaceX, Mars) based on index
 ## Team Members
 *   Amina Omari - ID: 212958755
 *   Ossama Ziadat - ID: 212608368
+*   Smia Idres - ID: 214077521
