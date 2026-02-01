@@ -1,3 +1,5 @@
+# Team: Amina O, Ossama Z, Smia I
+
 
 import os
 try:

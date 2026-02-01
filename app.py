@@ -1,4 +1,4 @@
-# Student Names: Amina O. & Ossama Z.
+# Student Names: Amina O, Ossama Z, Smia I
 # RAG Assignment - Space Exploration Assistant
 import streamlit as st
 import os
